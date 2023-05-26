@@ -1937,7 +1937,7 @@
       (reference "J2") (unit 1) (value "Conn_01x04") (footprint "random-keyboard-parts:JST-SR-4")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/6d630448-4c55-4782-8b84-801fff5d4d9f"
-      (reference "J3") (unit 1) (value "Conn_01x04_Female_For_LCD") (footprint "Display:Adafruit_SSD1306")
+      (reference "J3") (unit 1) (value "Conn_01x04_Female_For_LCD") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/204d3d72-00bb-424e-b63b-8747019a7f38"
       (reference "MX1") (unit 1) (value "#1") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
