@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "Swithc Layout With LCD & Pot V3")
+    (title "Switch Layout With LCD & Pot V3")
     (rev "Rev 3")
-    (company "MIT Liscence")
+    (company "MIT License")
   )
 
   (lib_symbols

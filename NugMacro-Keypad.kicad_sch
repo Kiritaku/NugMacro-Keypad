@@ -7,7 +7,7 @@
   (title_block
     (title "Nug Macro V3")
     (rev "V3")
-    (company "MIT Liscence")
+    (company "MIT License")
   )
 
   (lib_symbols
