@@ -1738,49 +1738,49 @@
       (reference "J3") (unit 1) (value "Conn_01x04_Female_For_LCD") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/204d3d72-00bb-424e-b63b-8747019a7f38"
-      (reference "MX1") (unit 1) (value "#1") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX1") (unit 1) (value "#1") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/62e38145-3ad1-4b60-8412-e9e25730017a"
-      (reference "MX2") (unit 1) (value "#1b") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX2") (unit 1) (value "#1b") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/4627e8c3-0641-4dbe-ba3b-5a486218d1de"
-      (reference "MX3") (unit 1) (value "#1c") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX3") (unit 1) (value "#1c") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/e8922759-5f60-48fe-83e0-7609591d3cfa"
-      (reference "MX4") (unit 1) (value "#1d") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX4") (unit 1) (value "#1d") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/1d6be2a6-be28-45c8-ae25-50d4012f8abc"
-      (reference "MX5") (unit 1) (value "#2") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX5") (unit 1) (value "#2") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/27a79e30-d521-4065-94a3-01d68fefeb9f"
-      (reference "MX6") (unit 1) (value "#2b") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX6") (unit 1) (value "#2b") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/216689ee-2493-4584-b54e-685748062766"
-      (reference "MX7") (unit 1) (value "#2c") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX7") (unit 1) (value "#2c") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/a1cfc593-b67b-4742-8080-24c93873bf23"
-      (reference "MX8") (unit 1) (value "#2d") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX8") (unit 1) (value "#2d") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/c3a9b996-0159-4cc3-91eb-d30875d5a676"
-      (reference "MX9") (unit 1) (value "#3") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX9") (unit 1) (value "#3") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/05ddfc09-b6c2-4ebd-ae6b-99d4339be5d1"
-      (reference "MX10") (unit 1) (value "#3b") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX10") (unit 1) (value "#3b") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/4d709a7f-57b4-41dd-a92e-5837f865b4df"
-      (reference "MX11") (unit 1) (value "#3c") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX11") (unit 1) (value "#3c") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/7d5e9834-61a5-462b-890c-5e4eae09f56e"
-      (reference "MX12") (unit 1) (value "#3d") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX12") (unit 1) (value "#3d") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/351c0988-f141-4020-90ab-933a3415d3d6"
-      (reference "MX13") (unit 1) (value "#4") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX13") (unit 1) (value "#4") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/373448e3-6e93-44f8-8773-73d32d8623c9"
-      (reference "MX14") (unit 1) (value "#4b") (footprint "MX_Alps_Hybrid:MX-1U-NoLED")
+      (reference "MX14") (unit 1) (value "#4b") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/33fe6b1d-a55f-45e9-9c81-27fd5e4cace5/8bf6aa70-d00c-4090-83da-5a7b598adb41"
-      (reference "MX15") (unit 1) (value "#4c") (footprint "MX_Alps_Hybrid:MX-2U-NoLED")
+      (reference "MX15") (unit 1) (value "#4c") (footprint "MX_Only:MXOnly-2U-NoLED")
     )
     (path "/b006b8ac-9a5f-47f9-9de2-1486a1b26a4d"
       (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
