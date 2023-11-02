@@ -52,6 +52,7 @@
 - I am currently working on a walnut case for my board, but when designing your case. Make sure you account for your desired mounting style, and daughterboard or any additional components you may have.
 
  ### Notes
- - I'll add some helpful links later
- - Prob need to condense/organize this better
+ - I'll add some helpful links later.
+ - I'll get these files organized a bit better/remove a good bit of junk soon.
+ - Prob need to condense/organize this better.
  - If anyone has any questions about your own project or mine. Shoot me an email (Logan@Scootah.dev) and I'll do my best to give you a good answer.
