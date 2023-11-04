@@ -34,7 +34,7 @@
 - I ordered my boards from [JLCPCB](https://jlcpcb.com/).
 - When making the production files, there are plugins for KiCAD that can make this easier, but just make sure you verify it looks correct.
 - When selecting components for assmebly, make sure they are all correct. I had an issue from choosing a crystal at the correct speed, but wrong load.
-- I used this formula **_(CL = (C1 * C2) / (C1 + C2) + Cstray)_** for finding what load rating I needed for my crystal. C1 and C2 are the caps for your crystal and I used 5pF for my stray approximation.
+- I used this formula **_(CL = (C1 * C2) / (C1 + C2) + Cstray)_** for finding what load rating I needed for my crystal. C1 and C2 are the caps for your crystal and I used **5pF** for my stray approximation.
 - **For the love of god** do not try to assemble the entire board yourself thinking it wont be that hard.
 - After you buy all the parts, ship everything, and assemble it. The time and money spent is not worth getting at least the majority of the board assembled form JLC.
 - Especially if you try to do this all with a soldering iron, it can definetly be done, but there is a *__Lot__* of room for mistakes
