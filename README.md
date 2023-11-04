@@ -4,7 +4,7 @@
  
 ### Before We Get Into Issues/Disclaimer
  For anyone reading this trying to troubleshoot their own project. If you have not realized this yet, especially if this is your first attemp at something like this, realize that troubleshooting will be the most time consuming part of this. After all, it's always a learning experince, and thats just the nature of it.
- **Disclaimer** to anyone reading this. My understanding is that this project uses a bit of outdated components with the mcu, power connector, and daughterboard as theres definetely better MCU options and now better daughterboard options. I originally began this in 2020, so please don't use my schematic or parts list as a bible for building your own.
+- **Disclaimer** to anyone reading this. My understanding is that this project uses a bit of outdated components with the mcu, power connector, and daughterboard as theres definetely better MCU options and now better daughterboard options. I originally began this in 2020, so please don't use my schematic or parts list as a bible for building your own.
 
 ### Learning How To Use KiCAD
 - The popular EDA of choice is [KiCAD](https://www.kicad.org/). It's free and not incredibly hard to learn. 
