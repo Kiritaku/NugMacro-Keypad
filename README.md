@@ -1,5 +1,5 @@
 # NugMacro-Keypad
- This is my first attempt at designing/assembling a keyboard from scratch.
+ This is my first (working)attempt at designing/assembling a keyboard from scratch.
  I'll try to include some issues I had, and how I resolved them for others to look at when troubleshooting their own designs, and for myself.
  
 ### Before We Get Into Issues/Disclaimer
