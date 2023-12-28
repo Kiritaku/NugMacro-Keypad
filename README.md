@@ -58,3 +58,6 @@
  - I'll get these files organized a bit better/remove a good bit of junk soon.
  - Prob need to condense/organize this better.
  - If anyone has any questions about your own project or mine. Shoot me an email (Logan@Scootah.dev) and I'll do my best to give you a good answer.
+
+ ### UPDATE
+ Project is on hiatus for now, but if for whatever reason someone builds one of their own, qmk firmware is finished and if you want it just email me.
