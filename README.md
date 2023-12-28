@@ -60,4 +60,5 @@
  - If anyone has any questions about your own project or mine. Shoot me an email (Logan@Scootah.dev) and I'll do my best to give you a good answer.
 
  ### UPDATE
- Project is on hiatus for now, but if for whatever reason someone builds one of their own, qmk firmware is finished and if you want it just email me.
+ Project is on hiatus for now, but if for whatever reason someone builds one of their own, qmk firmware is finished and if you want it just email me. 
+ P.S. I wired the OLED wrong so prob wanna put it on the correct pins if you make your own to save a headache.
